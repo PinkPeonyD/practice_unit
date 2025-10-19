@@ -114,3 +114,13 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/node,test,linux,macos,windows,calabash,sonarqube,visualstudiocode,webstorm+all
 /special_logs.txt
+
+node_modules/
+coverage/
+reports/
+.nyc_output/
+*.log
+.env
+.DS_Store
+dist/
+build/
